@@ -79,7 +79,6 @@
 		602DD337222F59CE002AD21A = {
 			isa = PBXGroup;
 			children = (
-				6033CE36223A206F00100A6B /* weekTop.storyboard */,
 				602DD342222F59CE002AD21A /* df_app_HW1 */,
 				602DD357222F59CF002AD21A /* df_app_HW1Tests */,
 				602DD362222F59CF002AD21A /* df_app_HW1UITests */,
@@ -100,6 +99,7 @@
 		602DD342222F59CE002AD21A /* df_app_HW1 */ = {
 			isa = PBXGroup;
 			children = (
+				6033CE36223A206F00100A6B /* weekTop.storyboard */,
 				602DD343222F59CE002AD21A /* AppDelegate.swift */,
 				602DD345222F59CE002AD21A /* ViewController.swift */,
 				602DD347222F59CE002AD21A /* Main.storyboard */,
