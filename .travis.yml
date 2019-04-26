@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: df_app_HW1/df_app_HW1.xcodeproj # path to your xcodeproj folder
+xcode_scheme: df_app_HW1
+xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone 8
